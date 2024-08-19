@@ -1,4 +1,4 @@
-<?xml version="1.0"?><MMC_ConsoleFile ConsoleVersion="3.0" ProgramMode="UserSDI">
+<? xml version="1.0"?><MMC_ConsoleFile ConsoleVersion="3.0" ProgramMode="UserSDI">
   <ConsoleFileID>a7bf8102-12e1-4226-aa6a-2ba71f6249d0</ConsoleFileID>
   <FrameState ShowStatusBar="false">
     <WindowPlacement ShowCommand="SW_HIDE">
